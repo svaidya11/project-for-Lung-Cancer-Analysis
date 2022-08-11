@@ -10,4 +10,4 @@ The United States accounts for the loss of approximately 225,000 people each yea
 
 # Lung_cancer_detection_using_ML
 
-Here, in this project I used Random Forest Classifier to detect the lung cancer.
+Here, in this project I used  Logistic Regression & Decision Tree Classifier to Analysis the lung cancer.
