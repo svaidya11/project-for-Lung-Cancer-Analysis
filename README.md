@@ -1,4 +1,4 @@
-project-for-Lung-Cancer-Analysis
+# project-for-Lung-Cancer-Analysis
 
 Researchers are now using ML in applications such as EEG analysis and Cancer Detection/Analysis. For example, by examining biological data such as DNA methylation and RNA sequencing can then be possible to infer which genes can cause cancer and which genes can instead be able to suppress its expression.
 
